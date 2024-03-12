@@ -43,8 +43,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
 
 12. connect the  ARM board to power supply and usb 
-
-
 13. check for execution of the output using run option 
 ## STM 32 CUBE PROGRAM :
 ```
@@ -108,7 +106,6 @@ void SystemClock_Config(void)
 }
 ```
 ```
-
 static void MX_GPIO_Init(void)
 {
   GPIO_InitTypeDef GPIO_InitStruct = {0};
